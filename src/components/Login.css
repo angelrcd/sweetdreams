@@ -9,3 +9,7 @@
     src: url(./assets/fonts/Bluetea.ttf) format(ttf);
   }
   
+  .login-container {
+    background-image: url("../img/bg-sky.jpg");
+  }
+  
